@@ -43,8 +43,8 @@ body {
   margin: auto;
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
-  -webkit-perspective: 6000px;
-          perspective: 6000px;
+  -webkit-perspective: 10000px;
+          perspective: 10000px;
   -webkit-transform: translateX(-25%);
           transform: translateX(-25%);
   -webkit-transition: -webkit-transform 1s ease-in-out;
