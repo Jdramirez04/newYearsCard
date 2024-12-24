@@ -104,8 +104,8 @@ p.signed {
   position: relative;
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
-  -webkit-perspective: 5000px;
-          perspective: 5000px;
+  -webkit-perspective: 6000px;
+          perspective: 6000px;
 }
 
 #card-front:before {
